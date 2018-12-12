@@ -1,5 +1,7 @@
 # Two Sigma ML competition 少先队员们加油
 
+我上传了一些目录结构，大家有什么有用的代码或文档，分享一下。
+
 src中放源代码
 data中放实验数据
 doc中放一些文档资料
