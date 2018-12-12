@@ -1,5 +1,5 @@
-# competition
-Two Sigma ML competition
+# Two Sigma ML competition 少先队员们加油
+
 src中放源代码
 data中放实验数据
 doc中放一些文档资料
